@@ -1,0 +1,1 @@
+openssl req -config ca/intermediate/openssl-intermediate.cnf -key ca/intermediate/private/client.key -new -sha256 -out ca/intermediate/csr/client.csr -subj "/C=US/ST=Unknown State/L=Unknown City/O=Unknown Inc./CN=Test client"

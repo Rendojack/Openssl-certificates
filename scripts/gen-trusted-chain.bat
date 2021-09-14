@@ -1,0 +1,1 @@
+type ca\intermediate\certs\intermediate.crt ca\certs\ca.crt > ca\intermediate\certs\ca-chain.pem

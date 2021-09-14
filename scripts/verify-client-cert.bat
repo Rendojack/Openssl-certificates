@@ -1,0 +1,1 @@
+openssl verify -CAfile ca/intermediate/certs/ca-chain.pem ca/intermediate/certs/client.crt

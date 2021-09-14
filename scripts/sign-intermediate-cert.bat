@@ -1,0 +1,1 @@
+openssl ca -batch -config ca/openssl-root.cnf -extensions v3_intermediate_ca -days 3650 -notext -md sha256 -in ca/intermediate/csr/intermediate.csr -out ca/intermediate/certs/intermediate.crt

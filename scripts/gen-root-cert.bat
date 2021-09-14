@@ -1,0 +1,1 @@
+openssl req -config ca/openssl-root.cnf -key ca/private/ca.key -new -x509 -days 7300 -sha256 -extensions v3_ca -out ca/certs/ca.crt -subj "/C=US/ST=Unknown State/L=Unknown City/O=Unknown Inc./CN=Test root"

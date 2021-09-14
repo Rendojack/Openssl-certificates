@@ -1,0 +1,1 @@
+openssl genrsa -out ca/intermediate/private/server.key 2048

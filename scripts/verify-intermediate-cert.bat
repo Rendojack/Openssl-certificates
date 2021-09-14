@@ -1,0 +1,1 @@
+openssl verify -CAfile ca/certs/ca.crt ca/intermediate/certs/intermediate.crt

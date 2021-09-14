@@ -1,0 +1,1 @@
+openssl genrsa -out ca/private/ca.key 2048
