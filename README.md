@@ -8,3 +8,5 @@ Single-click .bat script to generate root, intermediate, server and client certi
 5. Inspect output on /out
 
 That is it!
+
+Inspiration: https://jamielinux.com/docs/openssl-certificate-authority/index.html
