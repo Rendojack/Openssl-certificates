@@ -1,5 +1,5 @@
 # Openssl-certificates
-Single-click .bat script to generate root, intermediate, server and client certificates for testing purposes.
+Single-click .bat script to generate root, intermediate, server and client certificates for quick testing purposes.
 
 1. Download and install OpenSSL: https://slproweb.com/products/Win32OpenSSL.html
 2. Ensure Windows Environment variable PATH contains path to the OpenSSL executable (e.g. D:\Program Files\OpenSSL-Win64\bin)
